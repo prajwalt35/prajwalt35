@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Node js, AWS**
+- 🌱 I’m currently learning **Spring Boot, Microservices, AWS**
 
 - 👨‍💻 All of my projects are available at [prajwalsoft.com](prajwalsoft.com)
 
 - 💬 Ask me about **React JS, Java**
 
-- 📫 How to reach me **prajwalthorat6942gmail.com**
+- 📫 How to reach me **prajwalthorat694@gmail.com**
 
 - ⚡ Fun fact **Exploring New Things**
 
