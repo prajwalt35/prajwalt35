@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm A Passionate MERN Stack Developer and Freelancer from India.</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm A Passionate Java Full Stack Developer and Freelancer from India.</h1>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1d42d8178614ebf9d0895fab87d7c46f3a91c134c575f026b8e1eba0c6167c75/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalt35&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalt35" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, AWS**
+- 🌱 I’m currently learning **Spring Web Services, Microservices, Devops Tools**
 
 - 👨‍💻 All of my projects are available at [prajwalsoft.com](prajwalsoft.com)
 
-- 💬 Ask me about **React JS, Java**
+- 💬 Ask me about **Java, Springboot, Server Side Programming Servlets, Relational Databases**
 
 - 📫 How to reach me **prajwalthorat694@gmail.com**
 
