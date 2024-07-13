@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [prajwalsoft.com](prajwalsoft.com)
 
-- 💬 Ask me about **Java, Springboot, Server Side Programming Servlets, Relational Databases**
+- 💬 Ask me about **Java, C++, Web Developement, Springboot, Relational Databases**
 
 - 📫 How to reach me **prajwalthorat694@gmail.com**
 
