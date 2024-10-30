@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Web Services, .net Framework, MVC Architecture, Devops Tools**
 
-- 👨‍💻 All of my projects are available at [prajwalsoft.com](prajwalsoft.com)
-
-- 💬 Ask me about **Java, C++, Web Developement, Springboot, Relational Databases**
+- 💬 Ask me about **Java, C#, Web Developement, Web Development, Relational Databases**
 
 - 📫 How to reach me **prajwalthorat694@gmail.com**
 
