@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Web Services, .net Framework, MVC Architecture, Devops Tools**
+- 🌱 I’m currently learning **.net Framework, MVC Architecture, Spring Web Services, Devops Tools**
 
-- 💬 Ask me about **Java, C#, Web Developement, Web Development, Relational Databases**
+- 💬 Ask me about **Java, C#, Web Developement, SQL & NonSQL Databases**
 
 - 📫 How to reach me **prajwalthorat694@gmail.com**
 
