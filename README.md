@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 💬 Ask me about **Java, C#, Web Developement, SQL & NonSQL Databases**
+- 💬 Ask me about **Core Java, C#, Web Developement, SQL & NonSQL Databases**
   
 - 🌱 I’m currently learning **.net Framework, MVC Architecture, Spring Web Services, Devops Tools**
 
