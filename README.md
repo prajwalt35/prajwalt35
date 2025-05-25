@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm A Passionate .NET Full Stack Developer from India.</h1>
-<h3 align="center">A passionate Full Stack .NET developer from India</h3>
+<h1 align="center">Hi 👋, I'm A Passionate Full Stack Developer from India.</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1d42d8178614ebf9d0895fab87d7c46f3a91c134c575f026b8e1eba0c6167c75/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalt35&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalt35" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 💬 Ask me about **Core Java, C#, Web Developement, ADO.Net, SQL & NonSQL Databases, MS SQL Server**
+- 💬 Ask me about **Core Java, C#, Web Developement, Spring Boot, ASP.Net Core, ADO.Net, SQL & NonSQL Databases, MS SQL Server**
   
 - 🌱 I’m currently learning **.Net Framework, MVC Architecture, Entity Framework, Devops Tools**
 
