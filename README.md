@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/prajwal694" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal694?logo=twitter&style=for-the-badge" alt="prajwal694" /></a> </p>
 
-- 💬 Ask me about **Core Java, C#, Web Developement, .Net 6/7, ASP.Net Core, ADO.Net, SQL & NonSQL Databases, MS SQL Server**
+- 💬 Ask me about **Core Java, C#, Web Developement, .Spring boot,Maven, ASP.Net Core, SQL & NonSQL Databases, MS SQL Server**
   
-- 🌱 I’m currently learning **.Net Framework, MVC Architecture, Entity Framework, Devops Tools**
+- 🌱 I’m currently learning ** CI/CD Pipeline,Docker,Kubernates,Devops Tools**
 
 - 📫 How to reach me **prajwalthorat694@gmail.com**
 
